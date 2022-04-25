@@ -1,2 +1,1 @@
-# -DDD-domain-driven-design-
-domain driven design template for springboot repository  projects  
+# Customer order products project with using micro services
